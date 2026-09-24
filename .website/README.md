@@ -1,4 +1,8 @@
 ---
+genres:
+  - management
+  - idle
+  - simulation
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
 
